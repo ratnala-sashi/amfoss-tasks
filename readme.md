@@ -1,5 +1,5 @@
-# amFOSS tasks - Ashish malla 
-This is Ashish, fresher at Amrita School of Engineering (CSAI-2020). 
+# amFOSS tasks - RATNALA SASHANK
+This is Ashish, fresher at Amrita School of Engineering (CSE-2020). 
 
 ## Table of Contents
 

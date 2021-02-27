@@ -2,7 +2,7 @@ INTROSPECTION
 
 a. Why must we choose you?
 
-I was alwayscurious about coding.I had no idea what coding was.after the induction program i came to know what it mean.Being a noob for coding started my reasearch 'how to  
+I was always curious about coding.I had no idea what coding was.after the induction program i came to know what it mean.Being a noob for coding started my reasearch 'how to  
 become a pro'. later on, we got tasks . if we complete then i can enter otherwise a normal cse guy. tried upto my level best by asking many of my friends and counsins. I wont 
 say must u choose but i can say if u loose u me, u gave a chance to some other guy, to fill my space .. 
 
